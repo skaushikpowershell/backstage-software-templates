@@ -1,0 +1,2 @@
+The python app name is: ${{ app_name }}
+The environment is: ${{ app_env }}
